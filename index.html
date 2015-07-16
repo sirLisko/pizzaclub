@@ -1,0 +1,24 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Pizza Club</title>
+</head>
+<body>
+	<h1>PIZZA CLUB</h1>
+	<ul>
+		{% for pizza in site.data.pizzas %}
+			<li class="pizza">
+				<p><time datetime="{{ pizza.date }}">{{ pizza.date | date: "%d-%m-%Y" }}</time></p>
+				<p>{{ pizza.pizzeria }}</p>
+				<p>{{ pizza.where }}</p>
+				<p>{{ pizza.price }}</p>
+				<p{{ pizza.vote }}</p>
+			</li>
+		{% endfor %}
+	</ul>
+</body>
+</html>

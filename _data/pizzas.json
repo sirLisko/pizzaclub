@@ -1,0 +1,24 @@
+[
+    {
+        "date": "12-05-2015",
+        "pizza": "Margherita",
+        "pizzeria": "FrancoManca",
+        "where": "BroadweyMarket-London, UK",
+        "price": "£5.90",
+        "italian": true,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "margherita_francomanca"
+    },
+    {
+        "date": "09-05-2015",
+        "pizza": "Bufalina",
+        "pizzeria": "SpaccaNapoli",
+        "where": "Warsaw, Poland",
+        "price": "24zl/£4",
+        "italian": true,
+        "vote": "*****",
+        "type": "napoletana",
+        "slag": "bufalina_spaccanapoli"
+    }
+]
