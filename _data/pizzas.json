@@ -1,14 +1,141 @@
 [
     {
+        "date": "01-11-2015",
+        "pizza": "Fiorentina",
+        "pizzeria": "Il Monte",
+        "where": "Stoke Newington - London, UK",
+        "price": "£7.99",
+        "italian": false,
+        "vote": 3,
+        "slag": "fiorentina_monte"
+    },
+    {
+        "date": "31-10-2015",
+        "pizza": "Margherita",
+        "pizzeria": "Pizza Street",
+        "where": "Shoreditch - London, UK",
+        "price": "£6",
+        "italian": true,
+        "vote": 2
+    },
+    {
+        "date": "02-10-2015",
+        "pizza": "Fiorentina",
+        "pizzeria": "Bella Vita",
+        "where": "Broadwey Market - London, UK",
+        "price": "£7.95",
+        "italian": false,
+        "vote": 4
+    },
+    {
+        "date": "21-09-2015",
+        "pizza": "Margherita",
+        "pizzeria": "La Dolce Vita",
+        "where": "Caravate, IT",
+        "italian": true,
+        "vote": 5,
+        "slag": "margherita_dolcevita"
+    },
+    {
+        "date": "13-09-2015",
+        "pizza": "Fiorentina",
+        "pizzeria": "Pizza Express",
+        "where": "Soho - London, IT",
+        "price": "£10.10",
+        "italian": false,
+        "vote": 3
+    },
+    {
+        "date": "18-09-2015",
+        "pizza": "Margherita",
+        "pizzeria": "SpaccaNapoli",
+        "where": "Bologna, IT",
+        "italian": true,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "margherita_spaccanapoli_bo"
+    },
+    {
+        "date": "16-09-2015",
+        "pizza": "Margherita (Bufala)",
+        "pizzeria": "Regina Margherita",
+        "where": "Bologna, IT",
+        "price": "€8.50",
+        "italian": true,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "bufala_reginamargherita"
+    },
+    {
+        "date": "12-09-2015",
+        "pizza": "Margherita",
+        "pizzeria": "Pizza Pilgrim",
+        "where": "Carnaby Street - London, UK",
+        "price": "£11.95",
+        "italian": false,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "margherita_pilgrim_cs"
+    },
+    {
+        "date": "01-08-2015",
+        "pizza": "Margherita",
+        "pizzeria": "The Bite",
+        "where": "Dalston - London, UK",
+        "italian": false,
+        "vote": 4
+    },
+    {
+        "date": "12-07-2015",
+        "pizza": "Margherita (bufala)",
+        "pizzeria": "Rosso Pomodoro",
+        "where": "Coven Garden - London, UK",
+        "price": "£11.95",
+        "italian": true,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "verace_rossopomodoro_cg"
+    },
+    {
+        "date": "27-06-2015",
+        "pizza": "Margherita",
+        "pizzeria": "Laguna Blu",
+        "where": "Leggiuno, IT",
+        "italian": true,
+        "vote": 2,
+        "slag": "margherita_lagunablu"
+    },
+    {
+        "date": "12-06-2015",
+        "pizza": "Margherita",
+        "pizzeria": "Deliverance.co.uk",
+        "where": "Deliverance - London, UK",
+        "price": "£9.70",
+        "italian": false,
+        "vote": 2,
+        "slag": "margherita_deliverance"
+    },
+    {
+        "date": "07-06-2015",
+        "pizza": "Margherita (bufala)",
+        "pizzeria": "Rosso Pomodoro",
+        "where": "Hoxton - London, UK",
+        "price": "£11.95",
+        "italian": true,
+        "vote": 5,
+        "type": "napoletana",
+        "slag": "verace_rossopomodoro_hx"
+    },
+    {
         "date": "12-05-2015",
         "pizza": "Margherita",
         "pizzeria": "FrancoManca",
-        "where": "BroadweyMarket-London, UK",
+        "where": "Broadwey Market - London, UK",
         "price": "£5.90",
         "italian": true,
         "vote": 5,
         "type": "napoletana",
-        "slag": "margherita_francomanca"
+        "slag": "margherita_francomanca_bm"
     },
     {
         "date": "09-05-2015",
@@ -17,8 +144,8 @@
         "where": "Warsaw, Poland",
         "price": "24zl/£4",
         "italian": true,
-        "vote": "*****",
+        "vote": 5,
         "type": "napoletana",
-        "slag": "bufalina_spaccanapoli"
+        "slag": "bufalina_spaccanapoli_poland"
     }
 ]
