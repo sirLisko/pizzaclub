@@ -1,12 +1,31 @@
 [
     {
+        "date": "30-04-2016",
+        "pizza": "Margherita",
+        "pizzeria": "Pizza st.",
+        "where": "London - UK",
+        "italian": true,
+        "vote": 5,
+        "slag": "margherita_pizza-st"
+    },
+    {
+        "date": "25-04-2016",
+        "pizza": "Fiorentina",
+        "pizzeria": "Il Guscio",
+        "where": "London - UK",
+        "price": "£7.75",
+        "italian": true,
+        "vote": 3,
+        "slag": "fiorentina_guscio"
+    },
+    {
         "date": "30-03-2016",
         "pizza": "Fiorentina",
         "pizzeria": "Buon Appetito",
         "where": "London - UK",
         "price": "£9",
         "italian": false,
-        "vote": 3,
+        "vote": 2,
         "slag": "fiorentina_buonappetito"
     },
     {
