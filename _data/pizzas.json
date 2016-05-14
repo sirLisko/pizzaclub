@@ -1,5 +1,14 @@
 [
     {
+        "date": "11-05-2016",
+        "pizza": "Margherita - Bufala",
+        "pizzeria": "Pizza Pilgrim - Soho",
+        "where": "London - UK",
+        "italian": true,
+        "vote": 4,
+        "slag": "margherita_pilgrim_soho"
+    },
+    {
         "date": "30-04-2016",
         "pizza": "Margherita",
         "pizzeria": "Pizza st.",
