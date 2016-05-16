@@ -1,6 +1,6 @@
 body {
 	background-color: tomato;
-	color: #fff;
+	color: #FFF;
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 }
@@ -13,7 +13,7 @@ body:after {
 	content: '';
 	left: 0;
 	opacity: 0.1;
-	position: absolute;
+	position: fixed;
 	right: 0;
 	top: 0;
 	z-index: -1;
@@ -39,7 +39,7 @@ a {
 	width: 95%;
 }
 .pizza__pizzeria {
-	background: #fff;
+	background: #FFF;
 	border-radius: 5px;
 	color: tomato;
 	font-size: 20px;
@@ -52,7 +52,7 @@ a {
 }
 .pizza__pic {
 	border-radius: 100%;
-	border: solid 5px #fff;
+	border: solid 5px #FFF;
 	padding: 5px;
 }
 .pizza svg {
