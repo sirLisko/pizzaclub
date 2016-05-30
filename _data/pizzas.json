@@ -131,7 +131,8 @@
         "pizzeria": "The Bite",
         "where": "Dalston - London, UK",
         "italian": false,
-        "vote": 4
+        "vote": 3,
+        "slag": "margherita_bite"
     },
     {
         "date": "12-07-2015",
