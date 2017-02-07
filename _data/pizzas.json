@@ -14,7 +14,7 @@
     "pizzeria": "Mercato Metropolitano",
     "where": "London - UK",
     "italian": true,
-    "vote": 5,
+    "vote": 4,
     "slag": "margherita_mercatometropolitano"
   },
   {
@@ -74,8 +74,8 @@
   {
     "date": "29-08-2016",
     "pizza": "Margherita",
-    "pizzeria": "??",
-    "where": "London - UK",
+    "pizzeria": "O ver",
+    "where": "Southwark, London - UK",
     "italian": true,
     "vote": 4,
     "slag": "margherita_southwark"
@@ -119,7 +119,7 @@
   {
     "date": "24-06-2016",
     "pizza": "Margherita",
-    "pizzeria": "???",
+    "pizzeria": "Bistrot Laguna Blu",
     "where": "Leggiuno - IT",
     "italian": true,
     "vote": 2,
