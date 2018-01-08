@@ -55,6 +55,9 @@ a {
 	border: solid 5px #FFF;
 	padding: 5px;
 }
+.pizza__note {
+	font-style: italic;
+}
 .pizza svg {
 	display: inline-block;
 	fill: currentColor;

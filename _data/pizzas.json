@@ -6,7 +6,8 @@
     "where": "Baker Street, London - UK",
     "italian": true,
     "vote": 5,
-    "slag": "margherita_michele_baker"
+    "slag": "margherita_michele_baker",
+    "note": "First day of the year and first Pizza of the year.<br/>How to start the year in a better way? 😚"
   },
   {
     "date": "25-11-2017",
@@ -24,7 +25,8 @@
     "where": "Holloway, London - UK",
     "italian": true,
     "vote": 5,
-    "slag": "bufala_zia-lucia"
+    "slag": "bufala_zia-lucia",
+    "note": "Fresh Bufala on top, so good!!"
   },
   {
     "date": "22-11-2017",
@@ -42,7 +44,8 @@
     "where": "Shoreditch, London - UK",
     "italian": true,
     "vote": 3,
-    "slag": "pizza-fritta_rossopomodoro"
+    "slag": "pizza-fritta_rossopomodoro",
+    "note": "Really tasty, but a bit too heavy 😅"
   },
   {
     "date": "02-11-2017",
@@ -51,7 +54,8 @@
     "where": "Hampstead, London - UK",
     "italian": true,
     "vote": 5,
-    "slag": "bufala_antica_pizzeria_london"
+    "slag": "bufala_antica_pizzeria_london",
+    "note": "So good, despite of the terrible name of the Pizza (I think it was something like Dante Alighieri)."
   },
   {
     "date": "19-10-2017",
@@ -60,7 +64,8 @@
     "where": "Stoke Newington, London - UK",
     "italian": true,
     "vote": 2,
-    "slag": "margherita_michele_stoke_revisited"
+    "slag": "margherita_michele_stoke_revisited",
+    "note": "They used to be the best in London, the last couple of times I went I was really disappointed."
   },
   {
     "date": "12-10-2017",
@@ -68,8 +73,9 @@
     "pizzeria": "Pizzeria LAX Airport",
     "where": "Los Angeles, US",
     "italian": false,
-    "vote": 2,
-    "slag": "margherita_lax-airport"
+    "vote": 1,
+    "slag": "margherita_lax-airport",
+    "note": "I know, I know, but I couldn't resist."
   },
   {
     "date": "15-01-2017",
@@ -87,7 +93,8 @@
     "where": "London - UK",
     "italian": true,
     "vote": 4,
-    "slag": "margherita_mercatometropolitano"
+    "slag": "margherita_mercatometropolitano",
+    "note": "First time I try ricotta on Pizza and it was a pleasent discover."
   },
   {
     "date": "10-11-2016",
@@ -132,7 +139,8 @@
     "where": "Crouch End, London - UK",
     "italian": true,
     "vote": 5,
-    "slag": "speciale_sacrocuore"
+    "slag": "speciale_sacrocuore",
+    "note": "Not a big fun of Pizza full of ingredients but this was so good!"
   },
   {
     "date": "30-08-2016",
@@ -141,7 +149,8 @@
     "where": "London - UK",
     "italian": true,
     "vote": 0,
-    "slag": "margherita_guscio_away"
+    "slag": "margherita_guscio_away",
+    "note": "WTF! Dwarves' Pizza? Lost a client."
   },
   {
     "date": "29-08-2016",
@@ -159,7 +168,8 @@
     "where": "Como - IT",
     "italian": true,
     "vote": 4,
-    "slag": "margherita_napule"
+    "slag": "margherita_napule",
+    "note": "Napule è mille culure 🎵"
   },
   {
     "date": "05-08-2016",
@@ -186,7 +196,8 @@
     "where": "Spitafields, London - UK",
     "italian": true,
     "vote": 5,
-    "slag": "margherita_suditalia"
+    "slag": "margherita_suditalia",
+    "note": "Definitely one of the best in town!"
   },
   {
     "date": "24-06-2016",
@@ -213,7 +224,8 @@
     "where": "London - UK",
     "italian": false,
     "vote": 2,
-    "slag": "margherita_thebite"
+    "slag": "margherita_thebite",
+    "note": "They used to be really good, lately they lost their touch."
   },
   {
     "date": "24-05-2016",
@@ -270,7 +282,8 @@
       "price": "£5",
       "italian": false,
       "vote": 5,
-      "slag": "margherita_dustyknuckle"
+      "slag": "margherita_dustyknuckle",
+      "note": "Pleasent surprise in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿."
   },
   {
       "date": "01-11-2015",
@@ -307,7 +320,8 @@
       "where": "Caravate, IT",
       "italian": true,
       "vote": 5,
-      "slag": "margherita_dolcevita"
+      "slag": "margherita_dolcevita",
+      "note": "taste of childhood."
   },
   {
       "date": "13-09-2015",
@@ -326,7 +340,8 @@
       "italian": true,
       "vote": 5,
       "type": "napoletana",
-      "slag": "margherita_spaccanapoli_bo"
+      "slag": "margherita_spaccanapoli_bo",
+      "note": "Almost impossible to finish one."
   },
   {
       "date": "16-09-2015",
@@ -420,6 +435,7 @@
       "italian": true,
       "vote": 5,
       "type": "napoletana",
-      "slag": "bufalina_spaccanapoli_poland"
+      "slag": "bufalina_spaccanapoli_poland",
+      "note": "Kick Off 🍕"
   }
 ]

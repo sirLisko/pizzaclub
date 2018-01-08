@@ -42,6 +42,9 @@
 				</p>
 				<p>{{ pizza.where }}</p>
 				<p>{{ pizza.price }}</p>
+				{% if pizza.note %}
+					<p class="pizza__note">"{{ pizza.note }}"</p>
+				{% endif %}
 			</li>
 		{% endfor %}
 	</ul>
