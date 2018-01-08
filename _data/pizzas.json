@@ -10,6 +10,16 @@
     "note": "First day of the year and first Pizza of the year.<br/>How to start the year in a better way? 😚"
   },
   {
+    "date": "28-12-2017",
+    "pizza": "Bufala",
+    "pizzeria": "Pizzeria Gino Sorbillo",
+    "where": "Milano - IT",
+    "italian": true,
+    "vote": 5,
+    "slag": "bufala_sorbillo_milano",
+    "note": "Finally tried Sorbillo. Sooo good!<br/>Can't wait to try it in Napoli!"
+  },
+  {
     "date": "25-11-2017",
     "pizza": "Bufala",
     "pizzeria": "Pizzeria Apollo",
