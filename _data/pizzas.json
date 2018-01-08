@@ -80,12 +80,162 @@
   {
     "date": "12-10-2017",
     "pizza": "Margherita",
-    "pizzeria": "Pizzeria LAX Airport",
+    "pizzeria": "LAX Airport",
     "where": "Los Angeles, US",
     "italian": false,
     "vote": 1,
     "slag": "margherita_lax-airport",
     "note": "I know, I know, but I couldn't resist."
+  },
+  {
+    "date": "11-10-2017",
+    "pizza": "Margherita (deep)",
+    "pizzeria": "Jolla - San Diego",
+    "where": "Jolla, San Diego, US",
+    "italian": false,
+    "vote": 3,
+    "slag": "deep_san-diego",
+    "note": "I was looking for a Chicago Style pizza (yes, I know, in California) and I got this. Well, it wasn't that bad after all."
+  },
+  {
+    "date": "02-09-2017",
+    "pizza": "Popeye",
+    "pizzeria": "Yard Sale - Clapton",
+    "where": "Clapton, London, UK",
+    "italian": false,
+    "vote": 4,
+    "slag": "popeye_yard-sale_clapton",
+    "note": "It was more a personal experiment, it was good but not my piece of cake (well, pizza in this case)."
+  },
+  {
+    "date": "24-08-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Mamma Farina",
+    "where": "Milano, IT",
+    "italian": true,
+    "vote": 3,
+    "slag": "margherita_mamma-farina",
+    "note": "I forgot the particularity of this pizza, gluten free? Without yeast? It was something like that. Not bad for an Unreal Pizza 😏"
+  },
+  {
+    "date": "29-05-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Made of dough",
+    "where": "Brixton, London, UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "margherita_made-of-dough",
+    "note": "Really good for a street food pizza!"
+  },
+  {
+    "date": "07-05-2017",
+    "pizza": "Fiorentina",
+    "pizzeria": "Indo Bar",
+    "where": "Whitechapel, London, UK",
+    "italian": false,
+    "vote": 2,
+    "slag": "fiorentina_indio",
+    "note": "Could have been better and worst at the same time.<br/>The bar is really nice though."
+  },
+  {
+    "date": "05-05-2017",
+    "pizza": "Mushrooms",
+    "pizzeria": "Pizza Pilgrim - Shoreditch",
+    "where": "Shoreditch, London, UK",
+    "italian": true,
+    "vote": 4,
+    "slag": "funghi_pizza-pilgrim_shoreditch",
+    "note": "Pizza Pilgrim BYOB, what do you want more? 🍾."
+  },
+  {
+    "date": "01-05-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Aeroporto Roma Fiumicino",
+    "where": "Roma, IT",
+    "italian": true,
+    "vote": 5,
+    "slag": "funghi_pizza-pilgrim_shoreditch",
+    "note": "30 mins in Italy, 1 Pizza."
+  },
+  {
+    "date": "27-04-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Antica Pizzeria da Michele - Tokyo",
+    "where": "Tokyo, JS",
+    "italian": true,
+    "vote": 5,
+    "slag": "margherita_tokyo",
+    "note": "Having Authentic Italian Pizza in Tokyo, that's life!"
+  },
+  {
+    "date": "27-04-2017",
+    "pizza": "Marinara",
+    "pizzeria": "Antica Pizzeria da Michele - Tokyo",
+    "where": "Tokyo, JS",
+    "italian": true,
+    "vote": 5,
+    "slag": "marinara_tokyo",
+    "note": "I also had to try the Marinara 😅"
+  },
+  {
+    "date": "24-04-2017",
+    "pizza": "Sort of Margherita",
+    "pizzeria": "Random place in Osaka",
+    "where": "Osaka, JS",
+    "italian": false,
+    "vote": 2,
+    "slag": "osaka",
+    "note": "I know, what to expect from a Japanese Pizza?<br/>But after two weeks of Japanese food I had to."
+  },
+  {
+    "date": "14-04-2017",
+    "pizza": "Special",
+    "pizzeria": "Sacro Cuore",
+    "where": "Crouch Hill, London, UK",
+    "italian": true,
+    "vote": 4,
+    "slag": "special_sacro-cuore",
+    "note": "I love this place, but this pizza was a bit too much.<br/>My fault for not keeping the traditions."
+  },
+  {
+    "date": "04-04-2017",
+    "pizza": "Sort of Margherita",
+    "pizzeria": "Kerb - Camden",
+    "where": "Camden, London, UK",
+    "italian": false,
+    "vote": 0,
+    "slag": "margherita_kerb_camden",
+    "note": "The worst pizza I've ever had in my entire life.<br/>PS for me: never listen to your british colleagues food suggestions."
+  },
+  {
+    "date": "18-03-2017",
+    "pizza": "Fiorentina Special",
+    "pizzeria": "Pizza Pilgrim",
+    "where": "Kings st, London, UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "experiment_pizza-pilgrim_kingst",
+    "note": "Hands down the best Fiorentina I have ever had."
+  },
+  {
+    "date": "04-02-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Antica Pizzeria da Michele",
+    "where": "Stoke Newington, London, UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "margherita_michele_stoke",
+    "note": "I had Michele in Napoli and it was amazing.<br/>So glad they opened also in London."
+  },
+  {
+    "date": "04-02-2017",
+    "pizza": "Marinara",
+    "pizzeria": "Antica Pizzeria da Michele",
+    "where": "Stoke Newington, London, UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "marinara_michele_stoke",
+    "note": "Obviously I had to try also the Marinara."
   },
   {
     "date": "15-01-2017",
