@@ -25,6 +25,7 @@
 <body>
 	<h1>Pizza Club</h1>
 	<p>My tasty Pizza Adventure around the World.</p>
+	<p><b>{{site.data.pizzas | size}}</b> Pizzas and counting...</p>
 	<ul>
 		{% for pizza in site.data.pizzas %}
 			<li class="pizza">
