@@ -1,5 +1,77 @@
 [
   {
+    "date": "01-01-2018",
+    "pizza": "Margherita (Doppia Mozzarella)",
+    "pizzeria": "Antica Pizzeria da Michele",
+    "where": "Baker Street, London - UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "margherita_michele_baker"
+  },
+  {
+    "date": "25-11-2017",
+    "pizza": "Bufala",
+    "pizzeria": "Pizzeria Apollo",
+    "where": "Stoke Newington - London, UK",
+    "italian": true,
+    "vote": 3,
+    "slag": "bufala_apollo"
+  },
+  {
+    "date": "22-11-2017",
+    "pizza": "Bufala",
+    "pizzeria": "Zia Lucia",
+    "where": "Holloway, London - UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "bufala_zia-lucia"
+  },
+  {
+    "date": "22-11-2017",
+    "pizza": "Bufala",
+    "pizzeria": "Pizza Wall St.",
+    "where": "Hackney, London - UK",
+    "italian": true,
+    "vote": 2,
+    "slag": "bufala_wall-st"
+  },
+  {
+    "date": "06-11-2017",
+    "pizza": "Pizza Fritta",
+    "pizzeria": "Rosso Pomodoro",
+    "where": "Shoreditch, London - UK",
+    "italian": true,
+    "vote": 3,
+    "slag": "pizza-fritta_rossopomodoro"
+  },
+  {
+    "date": "02-11-2017",
+    "pizza": "Bufala",
+    "pizzeria": "Antica Pizzeria",
+    "where": "Hampstead, London - UK",
+    "italian": true,
+    "vote": 5,
+    "slag": "bufala_antica_pizzeria_london"
+  },
+  {
+    "date": "19-10-2017",
+    "pizza": "Margherita (Doppia Mozzarella)",
+    "pizzeria": "Antica Pizzeria da Michele",
+    "where": "Stoke Newington, London - UK",
+    "italian": true,
+    "vote": 2,
+    "slag": "margherita_michele_stoke_revisited"
+  },
+  {
+    "date": "12-10-2017",
+    "pizza": "Margherita",
+    "pizzeria": "Pizzeria LAX Airport",
+    "where": "Los Angeles, US",
+    "italian": false,
+    "vote": 2,
+    "slag": "margherita_lax-airport"
+  },
+  {
     "date": "15-01-2017",
     "pizza": "Margherita",
     "pizzeria": "Sacro Cuore",
