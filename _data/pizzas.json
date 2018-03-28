@@ -1,5 +1,15 @@
 [
   {
+    "date": "28-03-2018",
+    "pizza": "Bufalina",
+    "pizzeria": "Theo's",
+    "where": "Camberwell, London - UK",
+    "italian": true,
+    "vote": 4,
+    "slag": "bufalina_theo",
+    "note": "Good fresh bufala, amazing pomodorini, but a bit burned."
+  },
+  {
     "date": "01-01-2018",
     "pizza": "Margherita (Doppia Mozzarella)",
     "pizzeria": "Antica Pizzeria da Michele",
