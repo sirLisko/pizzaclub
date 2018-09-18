@@ -11,5 +11,11 @@ module.exports = {
         path: './_data/',
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-7433914-14',
+      },
+    },
   ],
 }
