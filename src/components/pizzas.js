@@ -12,14 +12,24 @@ const Pizza = ({ node: pizza }) => (
       <time dateTime="{ pizza.date }">{pizza.date}</time>
     </p>
     {pizza.slag ? (
-      <img className="pizza__pic" src={withPrefix(`./imgs/${pizza.slag}.jpg`)} />
+      <img
+        className="pizza__pic"
+        src={withPrefix(`./imgs/${pizza.slag}.jpg`)}
+      />
     ) : (
       <img src="./pizza.svg" />
     )}
     <p>{rating(pizza.vote)}</p>
     <p>{pizza.where}</p>
     <p>{pizza.price}</p>
-    {pizza.note && <p className="pizza__note">"{pizza.note}"</p>}
+    {pizza.note && (
+      <p
+        className="pizza__note"
+        dangerouslySetInnerHTML={{
+          __html: `"${pizza.note}"`,
+        }}
+      />
+    )}
   </li>
 )
 
