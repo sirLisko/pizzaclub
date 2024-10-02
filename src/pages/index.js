@@ -14,9 +14,7 @@ const IndexPage = ({
     <Pizzas pizzas={pizzas} />
     <p className="footer">
       <span>
-        Created with ♥ by <a href="http://sirlisko.com">Luca Lischetti</a> (<a href="http://twitter.com/sirLisko">
-          @sirLisko
-        </a>).
+        Created with ♥ by <a href="https://sirlisko.com">Luca Lischetti</a>.
       </span>
       <span>
         View project source on{' '}

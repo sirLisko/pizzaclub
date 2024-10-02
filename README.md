@@ -2,7 +2,7 @@
 
 Auto-generated journal of my pizza's adventures.
 
-http://pizzaclub.sirlisko.com
+https://pizzaclub.sirlisko.com
 
 ## Powered by
 
