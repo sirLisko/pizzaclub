@@ -24,7 +24,7 @@ const Layout = ({ children, data }) => (
       ]}
       link={[
         {
-          href: 'http://fonts.googleapis.com/css?family=Oswald|Open+Sans',
+          href: 'https://fonts.googleapis.com/css?family=Oswald|Open+Sans',
           rel: 'stylesheet',
           type: 'text/css',
         },
