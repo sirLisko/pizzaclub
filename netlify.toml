@@ -1,0 +1,20 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+# Required in the Netlify UI (Site settings -> Environment variables), not committed here:
+#   SANITY_PROJECT_ID       = 94n7yav2
+#   SANITY_DATASET          = production
+#   SANITY_API_READ_TOKEN   = <a read-only Sanity API token>
+#
+# A Netlify "Build hook" (Site settings -> Build & deploy -> Build hooks) should be
+# added as a webhook in Sanity (Project settings -> API -> Webhooks) filtered to
+# `_type == "pizzaEntry"` so publishing a new entry triggers a rebuild automatically.
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

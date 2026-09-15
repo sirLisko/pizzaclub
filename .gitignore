@@ -3,6 +3,20 @@
 node_modules
 yarn-error.log
 
-# Build directory
-/public
+# Build directories
+dist
 .DS_Store
+
+# Astro
+.astro
+
+# Sanity Studio local dev cache
+.sanity
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local Netlify folder
+.netlify
